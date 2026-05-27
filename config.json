@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filtervecrypt",
+        "uuid": 9790818,
+        "checksum": "fruuvs"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
